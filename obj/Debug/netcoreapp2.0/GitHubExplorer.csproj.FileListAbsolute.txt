@@ -1,0 +1,11 @@
+C:\projects\Personal\GitHubExplorer\bin\Debug\netcoreapp2.0\GitHubExplorer.deps.json
+C:\projects\Personal\GitHubExplorer\bin\Debug\netcoreapp2.0\GitHubExplorer.runtimeconfig.json
+C:\projects\Personal\GitHubExplorer\bin\Debug\netcoreapp2.0\GitHubExplorer.runtimeconfig.dev.json
+C:\projects\Personal\GitHubExplorer\bin\Debug\netcoreapp2.0\GitHubExplorer.dll
+C:\projects\Personal\GitHubExplorer\bin\Debug\netcoreapp2.0\GitHubExplorer.pdb
+C:\projects\Personal\GitHubExplorer\obj\Debug\netcoreapp2.0\GitHubExplorer.csprojResolveAssemblyReference.cache
+C:\projects\Personal\GitHubExplorer\obj\Debug\netcoreapp2.0\GitHubExplorer.csproj.CoreCompileInputs.cache
+C:\projects\Personal\GitHubExplorer\obj\Debug\netcoreapp2.0\GitHubExplorer.AssemblyInfoInputs.cache
+C:\projects\Personal\GitHubExplorer\obj\Debug\netcoreapp2.0\GitHubExplorer.AssemblyInfo.cs
+C:\projects\Personal\GitHubExplorer\obj\Debug\netcoreapp2.0\GitHubExplorer.dll
+C:\projects\Personal\GitHubExplorer\obj\Debug\netcoreapp2.0\GitHubExplorer.pdb
